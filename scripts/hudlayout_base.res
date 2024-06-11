@@ -12,7 +12,7 @@
 		"visible"			"0"
 		"enabled"			"0"
 		"labelText"			"<"
-		"controlName"		"CExLabel"
+		"controlName"		        "CExLabel"
 		"fieldName"			"CustomCrosshair"
 		"zpos"				"0"
 		"xpos"				"cs-0.5"
@@ -20,7 +20,7 @@
 		"wide"				"f0"
 		"tall"				"f0"
 		"font"				"Size:18 | Outline:OFF"
-		"textAlignment"		"center"
+		"textAlignment"			"center"
 		"fgcolor"			"Crosshair"
 	}
 	//--------------------------------------------------------------
@@ -30,9 +30,9 @@
 	//--------------------------------------------------------------
 	"TransparentViewmodel"
 	{
-		"visible"			"0"
-		"enabled"			"0"
-		"controlName"		"ImagePanel"
+		"visible"			"1"
+		"enabled"			"1"
+		"controlName"			"ImagePanel"
 		"fieldName"			"TransparentViewmodel"
 		"zpos"				"-100"
 		"xpos"				"0"
@@ -40,7 +40,7 @@
 		"wide"				"f0"
 		"tall"				"480"
 		"image"				"replay/thumbnails/transparent"
-		"scaleImage"		"1"
+		"scaleImage"			"1"
 	}
 	//--------------------------------------------------------------
 
